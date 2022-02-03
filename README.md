@@ -1,3 +1,9 @@
+Hi there 👋
++ I'm a student MSUCE.
++ I am studying at the faculty of Computer Science and Information Technology.
++ Software engineer in the future.
+
+
 
 
 <!--
