@@ -3,8 +3,7 @@ Hi there 👋
 + I am studying at the faculty of Computer Science and Information Technology.
 + Software engineer in the future.
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golovpeter&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **golovpeter/golovpeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
