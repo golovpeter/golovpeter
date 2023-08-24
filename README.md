@@ -1,6 +1,6 @@
 Hi there 👋
 + I'm a student MSUCE.
-+ I am studying at the faculty of Computer Science and Information Technology.
++ I'm studying at the faculty of Computer Science and Information Technology.
 + Software engineer in the future.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golovpeter&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
