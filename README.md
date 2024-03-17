@@ -3,6 +3,9 @@ Hi there 👋
 + I'm studying at the faculty of Computer Science and Information Technology.
 + Software engineer in the future.
 
+Contacts:
+  - Email: petya-golov@mail.ru
+  - Telegram: [@philoux](https://t.me/philoux)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golovpeter&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
