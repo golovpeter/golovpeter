@@ -1,9 +1,10 @@
 Hi there 👋
 + I'm a student MSUCE.
-+ I'm studying at the faculty of Computer Science and Information Technology.
-+ Software engineer in the future.
++ Studying at the faculty of Computer Science and Information Technology.
++ Go Backend Engineer in the present.
++ I'm interested in backend development, architecture, system design, optimisations.
 
-Contacts:
+Get in touch:
   - Email: petya-golov@mail.ru
   - Telegram: [@philoux](https://t.me/philoux)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golovpeter&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
