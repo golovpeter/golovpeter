@@ -6,7 +6,7 @@ Hi there 👋
 
 Get in touch:
   - Email: petya-golov@mail.ru
-  - Telegram: [@philoux](https://t.me/philoux)  
+  - Telegram: [@golovpetr](https://t.me/golovpetr)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golovpeter&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
