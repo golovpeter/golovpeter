@@ -1,7 +1,7 @@
 Hi there 👋
 + I'm a student MSUCE.
 + Studying at the faculty of Computer Science and Information Technology.
-+ Go Backend Engineer in the present.
++ Go Backend Engineer in Sber.
 + I'm interested in backend development, architecture, system design, optimisations.
 
 Get in touch:
